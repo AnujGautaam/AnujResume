@@ -1,7 +1,7 @@
 // this is for the header component 
 import React from 'react'
 import "./Header.css"
-import image from "../images/1.png"
+import image from "../images/2.jpg"
 import Navbar from './Navbar'
 const Header = () => {
   return (
