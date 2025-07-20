@@ -1,0 +1,12 @@
+/* this is the css file for the header component and this will be the way to do things */
+.header-one{
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+.header-two-img{
+    border-radius: 80px;
+}
+
+.navbar-items{
+    margin: 4px;
+}

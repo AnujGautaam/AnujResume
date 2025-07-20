@@ -1,0 +1,17 @@
+/* this is the css component for Main.jsx */
+.div-main{
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+}
+.box-one{
+    /* background-color: blue; */
+    margin: 5px;
+}
+
+
+
+
+.div-one{
+    background-color: blue;
+}
